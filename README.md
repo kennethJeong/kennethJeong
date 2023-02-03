@@ -1,16 +1,13 @@
 
 <div align="center"> 
 
+##  :wave: Welcome my github profile !
+  
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&animation=fadeIn&section=footer&text=🐶&fontAlign=50)
   
-##  :wave: Welcome my github profile !
-
- 
-<!-- #### :pencil2: Study log -->
-
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kennethJeong&theme=2077)]
   
- <br/>
+  
  <br/>
   
 ##  :clipboard: Once I've Used 
