@@ -122,4 +122,4 @@
  
 <!-- #### :pencil2: Study log -->
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kennethJeong&theme=nord_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kennethJeong&theme=2077)
