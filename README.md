@@ -5,6 +5,11 @@
   
 ####  :wave: Welcome my github profile !
 
+ 
+<!-- #### :pencil2: Study log -->
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kennethJeong&theme=2077)]
+  
  <br/>
  <br/>
   
@@ -116,10 +121,3 @@
 <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=Eclipse%20IDE&logoColor=white">
 <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=VisualStudioCode&logoColor=white">
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white">
-  
-  <br/>
-  <br/> 
- 
-<!-- #### :pencil2: Study log -->
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kennethJeong&theme=2077)
