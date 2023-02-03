@@ -5,7 +5,8 @@
   
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&animation=fadeIn&section=footer&text=🐶&fontAlign=50)
   
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kennethJeong&theme=2077)]
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kennethJeong&theme=2077)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kennethJeong&theme=2077)
   
   
  <br/>
