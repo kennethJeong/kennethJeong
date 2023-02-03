@@ -122,10 +122,4 @@
  
 <!-- #### :pencil2: Study log -->
 
-<img src="https://raw.githubusercontent.com/kennethJeong/github-stats-transparent/output/generated/languages.svg" width="50%" />
-  
-  
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=893107&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-  
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=somm&color=dark)](https://velog.io/@somm)
-</div> -->
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kennethJeong&theme=nord_dark)
