@@ -3,7 +3,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&animation=fadeIn&section=footer&text=🐶&fontAlign=50)
   
-###  :wave: Welcome my github profile !
+##  :wave: Welcome my github profile !
 
  
 <!-- #### :pencil2: Study log -->
@@ -13,10 +13,7 @@
  <br/>
  <br/>
   
-###  :clipboard: Once I've Used 
-  
- <br/>
-  
+##  :clipboard: Once I've Used 
 ####  :Web
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white">
