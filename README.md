@@ -17,6 +17,8 @@
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white">
 <img src="https://img.shields.io/badge/JQuery-0769AD?style=for-the-badge&logo=JQuery&logoColor=white">
 <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=PHP&logoColor=white"> 
+<img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=JSON&logoColor=white"> 
+  
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
 <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=SQLite%20IDE&logoColor=white">
 <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=MariaDB%20IDE&logoColor=white">
@@ -55,7 +57,8 @@
 <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white"> 
 <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=Eclipse%20IDE&logoColor=white">
 <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=VisualStudioCode&logoColor=white">
- 
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white">
+  
   <br/>
   <br/> 
   
@@ -66,10 +69,11 @@
 <img src="https://img.shields.io/badge/Adobe Premiere Pro-9999FF?style=for-the-badge&logo=Adobe Premiere Pro&logoColor=white"> 
 <img src="https://img.shields.io/badge/Adobe After Effects-9999FF?style=for-the-badge&logo=Adobe After Effects&logoColor=white"> 
   
+  
    <br/>
    <br/>
  
-#### :pencil2: Study log
+<!-- #### :pencil2: Study log -->
  
   <br/>
   
