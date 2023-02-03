@@ -53,10 +53,7 @@
 <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=iOS&logoColor=white">
 <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=Swift&logoColor=white">
 <img src="https://img.shields.io/badge/UIKit-2396F3?style=for-the-badge&logo=UIKit&logoColor=white">
-
-  <br/>
-  <br/>
-  
+<img src="https://img.shields.io/badge/CocoaPods-EE3322?style=for-the-badge&logo=CocoaPods&logoColor=white">
 <img src="https://img.shields.io/badge/XCode-147EFB?style=for-the-badge&logo=XCode&logoColor=white">
 <img src="https://img.shields.io/badge/Realm-39477F?style=for-the-badge&logo=Realm&logoColor=white">
 <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=Heroku&logoColor=white">
